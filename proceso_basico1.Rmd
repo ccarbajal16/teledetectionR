@@ -40,11 +40,15 @@ Estos archivos de datos de teledetección brindan información sobre la vegetaci
 
 
 
+```{r}
+
 ```
 
 ## Incorporando datos
 
 You can also embed plots, for example:
+
+```{r}
 
 ```
 
