@@ -36,8 +36,6 @@ Al hacerlo, también aprenderemos a convertir ubicaciones x, y en formato tabula
 Estos archivos de datos de teledetección brindan información sobre la vegetación en los sitios de campo de la [Cordillera Experimental San Joaquin](http://www.neonscience.org/field-sites/field-sites-map/SJER) y [Soaproot Saddle](http://www.neonscience.org/field-sites/field-sites-map/SOAP) de la [Red Nacional del Observatorio Ecológico](http://www.neonscience.org/). Esta información esta destinada para fines educativos y puede accederse a todos los datos para propósitos de investigación, visitando el portal de datos [NEON](http://data.neonscience.org/home).
 
 
-
-
 ```{r}
 ```
 
