@@ -38,10 +38,7 @@ Estos archivos de datos de teledetección brindan información sobre la vegetaci
 
 
 
-
-
 ```{r}
-
 ```
 
 ## Incorporando datos
@@ -49,7 +46,6 @@ Estos archivos de datos de teledetección brindan información sobre la vegetaci
 You can also embed plots, for example:
 
 ```{r}
-
 ```
 
 
