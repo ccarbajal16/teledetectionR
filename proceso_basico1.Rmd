@@ -40,16 +40,12 @@ Estos archivos de datos de teledetección brindan información sobre la vegetaci
 
 
 
-```{r cars}
-summary(cars)
 ```
 
 ## Incorporando datos
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
 ```
 
 
