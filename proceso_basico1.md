@@ -1,0 +1,28 @@
+Procesos Básicos de Teledetección
+================
+
+Proceso 1: Extracción de valores raster en R
+--------------------------------------------
+
+En este tutorial, mostraremos tres métodos para extraer datos de un ráster en R:
+
+1.  Desde buffers circulares alrededor de puntos
+2.  Desde buffer cuadrados alrededor de puntos, y
+3.  Desde shapefiles.
+
+Al hacerlo, también aprenderemos a convertir ubicaciones x, y en formato tabular (.csv, .xls, .txt) en *SpatialPointsDataFrame*, que se pueden usar con otros datos espaciales.
+
+### Objetivos:
+
+-   Convertir ubicaciones de puntos *x*, *y* en un *SpatialPointsDataFrames*
+-   Asignar un Sistema de Referencia de Coordenadas (CRS) a un *SpatialPointsDataFrame*
+-   Extrae valores de los archivos raster.
+
+### Datos empleados:
+
+Estos archivos de datos de teledetección brindan información sobre la vegetación en los sitios de campo de la [Cordillera Experimental San Joaquin](http://www.neonscience.org/field-sites/field-sites-map/SJER) y [Soaproot Saddle](http://www.neonscience.org/field-sites/field-sites-map/SOAP) de la [Red Nacional del Observatorio Ecológico](http://www.neonscience.org/). Esta información esta destinada para fines educativos y puede accederse a todos los datos para propósitos de investigación, visitando el portal de datos [NEON](http://data.neonscience.org/home).
+
+Incorporando datos
+------------------
+
+You can also embed plots, for example:
